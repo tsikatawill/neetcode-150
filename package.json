@@ -1,0 +1,17 @@
+{
+  "name": "neetcode-150",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "try-01-01": "nodemon ./01-arrays-and-hashing/01-contains-duplicates/try.js",
+    "solution-01-01": "node ./01-arrays-and-hashing/01-contains-duplicates/try.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
