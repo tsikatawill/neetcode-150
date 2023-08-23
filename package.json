@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "try-01-01": "nodemon ./01-arrays-and-hashing/01-contains-duplicates/try.js",
-    "solution-01-01": "node ./01-arrays-and-hashing/01-contains-duplicates/try.js"
+    "try-1.1": "nodemon ./01-arrays-and-hashing/01-contains-duplicates/try.js"
   },
   "keywords": [],
   "author": "",
